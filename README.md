@@ -57,4 +57,4 @@ Frontend do sistema de admissões desenvolvido em **Next.js com TypeScript**, in
 
 ## 🔗 Backend relacionado
 
-O backend está disponível em: [https://github.com/seu-usuario/admissao](https://github.com/seu-usuario/admissao)
+O backend está disponível em: [https://github.com/reinaldojun/admissao](https://github.com/reinaldojun/admissao)
